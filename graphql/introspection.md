@@ -1,0 +1,1 @@
+With introspection turned on you can query the complete strructure of a graph. This is a potential risk so turn it off on production
